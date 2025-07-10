@@ -4,6 +4,9 @@ StellarVault is a secure, smart, and scalable platform designed to revolutionize
 
 Built with a combination of IoT, Machine Learning, and a responsive web interface, StellarVault enables intelligent tracking, optimized placement, and efficient retrieval of assets with real-time insights.
 
+<img align="right" alt="project image" width="550" src="https://github.com/user-attachments/assets/2cdcfa79-c243-4356-a91b-d661efc43a03">
+
+
 ## 🚀 Key Features:
 
 - **🔐 Secure Vault System**: Smart monitoring with role-based access.
