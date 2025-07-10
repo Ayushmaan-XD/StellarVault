@@ -1,6 +1,17 @@
-# StellarVault - Space Station Storage Management System
+# 🌌StellarVault - Space Station Storage Management System
 
-A comprehensive storage management system for space stations, featuring 3D visualization, inventory tracking, waste management, and time simulation.
+StellarVault is a secure, smart, and scalable platform designed to revolutionize how we store, organize, and manage valuable digital and physical items — whether it's in space cargo missions, shared community resources, or personal smart storage systems.
+
+Built with a combination of IoT, Machine Learning, and a responsive web interface, StellarVault enables intelligent tracking, optimized placement, and efficient retrieval of assets with real-time insights.
+
+## 🚀 Key Features:
+
+- **🔐 Secure Vault System**: Smart monitoring with role-based access.
+- **📦 Optimized Item Placement**: AI-powered recommendations for space-efficient storage.
+- **🌐 Web Dashboard**: Real-time tracking, analytics, and user control.
+- **🔁 Retrieval & Rearrangement Logic**: Prioritizes frequently used items for quicker access.
+- **🛰️ Space Cargo Mode**: Tailored for aerospace applications (astronaut stowage advisor).
+- **🌱 Eco Monitoring**: Tracks waste and resource reuse efficiency.
 
 ## Backend Architecture
 
